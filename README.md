@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Kapil Kumar](kapilkumar2001.github.io/portfolio)
+### Hi there 👋, I am [Kapil Kumar](portfolio)
 <br/>
 <hr>
 

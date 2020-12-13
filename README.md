@@ -29,11 +29,11 @@
 <hr>
 <br>
 <p align="center">
-    <a href="https://twitter.com/imkapil31" alt="Twitter"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png"></a>
-    <a href="https://www.linkedin.com/in/kapil-kumar-423993197/" alt="Linkedin"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"></a>
+    <a href="https://twitter.com/imkapil31" alt="Twitter"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://pbs.twimg.com/profile_images/1270788093931446273/bkOFGWwe_400x400.jpg"></a>
+    <a href="https://www.linkedin.com/in/kapil-kumar-423993197/" alt="Linkedin"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png"></a>
     <a href="https://www.instagram.com/imkapil16/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg"></a>
-    <a href="https://github.com/kapilkumar2001" alt="GitHub"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png"></a>
-    <a href="https://facebook.com/imkapil16" alt="Facebook"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512"></a>
+    <a href="https://github.com/kapilkumar2001" alt="GitHub"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
+    <a href="https://facebook.com/imkapil16" alt="Facebook"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/474x/fc/00/61/fc0061da43b239899945b1e886faa80a.jpg"></a>
 </p>
   
 <br/>

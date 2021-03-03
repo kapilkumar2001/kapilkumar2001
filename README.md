@@ -2,9 +2,9 @@
 <br/>
 <hr>
 
-- 🌱 I’m currently learning web development.
-- 🤔 I’m looking for help with competitive programming.
-- 🥅 2021 Goals: Start contributing in Open source projects.
+- 🌱 I’m currently learning Flutter.
+- 🤔 I’m looking for help with Competitive Programming.
+- 🥅 2021 Goals: Start contributing in Open Source projects.
 - 💬 Ask me anything you want to know about me.
 - 📫 How to reach me: kapilkumar2001prajapat@gmail.com 
 - ⚡ Fun fact: nothing
